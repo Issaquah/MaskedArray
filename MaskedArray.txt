@@ -1,0 +1,2 @@
+1)About masked Arrays
+2)Masking an entry from an array, masking mutliple entries, using a special value -"masked", unmasking an entry, masking an entire array
